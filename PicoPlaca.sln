@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicoPlaca", "PicoPlaca\PicoPlaca.csproj", "{A6B74F6B-56D5-40CC-9557-1B76B13E251E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicoPlaca.Domain", "PicoPlaca.Domain\PicoPlaca.Domain.csproj", "{53EF0C2B-18E7-44A8-83B5-5D2493893CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicoPlaca.Models", "PicoPlaca.Models\PicoPlaca.Models.csproj", "{4EE8F4CD-6C75-440F-9661-3C6CEDE5D41C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicoPlaca.ManagementService", "PicoPlaca.ManagementService\PicoPlaca.ManagementService.csproj", "{AD82448E-159C-4924-8ACA-DDEE0A252499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicoPlaca.Transversal", "PicoPlaca.Transversal\PicoPlaca.Transversal.csproj", "{E8D0129B-6A84-4CCB-9B96-CE94749EA5FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicoPlaca.UnitTests", "PicoPlaca.UnitTests\PicoPlaca.UnitTests.csproj", "{B40BCA87-C621-44AA-AAF9-E06350D553D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B74F6B-56D5-40CC-9557-1B76B13E251E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B74F6B-56D5-40CC-9557-1B76B13E251E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B74F6B-56D5-40CC-9557-1B76B13E251E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B74F6B-56D5-40CC-9557-1B76B13E251E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53EF0C2B-18E7-44A8-83B5-5D2493893CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EF0C2B-18E7-44A8-83B5-5D2493893CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EF0C2B-18E7-44A8-83B5-5D2493893CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EF0C2B-18E7-44A8-83B5-5D2493893CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE8F4CD-6C75-440F-9661-3C6CEDE5D41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE8F4CD-6C75-440F-9661-3C6CEDE5D41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE8F4CD-6C75-440F-9661-3C6CEDE5D41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE8F4CD-6C75-440F-9661-3C6CEDE5D41C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD82448E-159C-4924-8ACA-DDEE0A252499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD82448E-159C-4924-8ACA-DDEE0A252499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD82448E-159C-4924-8ACA-DDEE0A252499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD82448E-159C-4924-8ACA-DDEE0A252499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D0129B-6A84-4CCB-9B96-CE94749EA5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D0129B-6A84-4CCB-9B96-CE94749EA5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D0129B-6A84-4CCB-9B96-CE94749EA5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D0129B-6A84-4CCB-9B96-CE94749EA5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40BCA87-C621-44AA-AAF9-E06350D553D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40BCA87-C621-44AA-AAF9-E06350D553D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40BCA87-C621-44AA-AAF9-E06350D553D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40BCA87-C621-44AA-AAF9-E06350D553D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CC6F8B7-5C57-4446-B64F-252A79810910}
+	EndGlobalSection
+EndGlobal

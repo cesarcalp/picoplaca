@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PicoPlaca.Domain\PicoPlaca.Domain.csproj" />
+    <ProjectReference Include="..\PicoPlaca.Models\PicoPlaca.Models.csproj" />
+    <ProjectReference Include="..\PicoPlaca.Transversal\PicoPlaca.Transversal.csproj" />
+  </ItemGroup>
+
+</Project>
